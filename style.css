@@ -9,7 +9,7 @@
 
 {
 --cor0: 
---cor1:   #7B7A7A;
+--cor1:   #7b7a73;
 --cor2: #2B2B2B;
 --cor3: #878787;
 --cor4: #cbcbcb;
@@ -123,17 +123,17 @@ main a:hover{
 
 
 aside{
-    background-color: var(--cor2);
+    background-color: var(--cor4);
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.158);
+    box-shadow: 0px 1px 0px rgba(180, 180, 180, 0.774);
 }
 
 aside > h2{
-    background-color: var(--cor4);
+    background-color: var(--cor3);
     color: white;
     padding: 10px;
-    margin: -10px -10px 10px 10px;
+    border-top-left-radius: 5px ;
 }
 
 
